@@ -1,0 +1,26 @@
+h1 {
+  font-size: 1.2em;
+   font-family: Times New Roman;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 0.03em;
+   line-height: 2em;
+   }
+
+p {
+  font-size: 0.9em;
+  letter-spacing: 0.03em;
+  font-weight: 300;
+  color: #999999;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.7em;
+}
+
+ol {
+  font-size: 0.9em;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+  color: #999999;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+}
